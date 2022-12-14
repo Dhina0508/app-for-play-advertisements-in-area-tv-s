@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>405479987783-kkcadn6kapcp6l9c8v0rams1b02d5gt1.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.405479987783-kkcadn6kapcp6l9c8v0rams1b02d5gt1</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAWtRb8HE36aw75lsHAjPD7nKY_oYB0QcE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>405479987783</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.casaGrandeAdv</string>
+	<key>PROJECT_ID</key>
+	<string>casa-grand-adv</string>
+	<key>STORAGE_BUCKET</key>
+	<string>casa-grand-adv.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:405479987783:ios:e5249a21962801e20aef62</string>
+</dict>
+</plist>

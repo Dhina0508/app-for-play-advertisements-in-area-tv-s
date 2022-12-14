@@ -1,0 +1,154 @@
+{
+  "project_info": {
+    "project_number": "405479987783",
+    "project_id": "casa-grand-adv",
+    "storage_bucket": "casa-grand-adv.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405479987783:android:4fd057eae60b4a380aef62",
+        "android_client_info": {
+          "package_name": "com.example.advertisement_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "405479987783-jvm1alh8rpc9pkflqg1ael3cdnp6c8u8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzs2_pfZ5vxzbApQnE96dDC0iOc1G7ab0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "405479987783-jvm1alh8rpc9pkflqg1ael3cdnp6c8u8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "405479987783-ok9hoiqmusi6j7rsco7cs01oup4k9c07.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.casaadv"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405479987783:android:ce9071e5c42dbc9b0aef62",
+        "android_client_info": {
+          "package_name": "com.example.casa_grande_adv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "405479987783-jvm1alh8rpc9pkflqg1ael3cdnp6c8u8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzs2_pfZ5vxzbApQnE96dDC0iOc1G7ab0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "405479987783-jvm1alh8rpc9pkflqg1ael3cdnp6c8u8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "405479987783-ok9hoiqmusi6j7rsco7cs01oup4k9c07.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.casaadv"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405479987783:android:026e6e5c7e362ae90aef62",
+        "android_client_info": {
+          "package_name": "com.example.casaadv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "405479987783-jvm1alh8rpc9pkflqg1ael3cdnp6c8u8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzs2_pfZ5vxzbApQnE96dDC0iOc1G7ab0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "405479987783-jvm1alh8rpc9pkflqg1ael3cdnp6c8u8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "405479987783-ok9hoiqmusi6j7rsco7cs01oup4k9c07.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.casaadv"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405479987783:android:efc3a88b43e757220aef62",
+        "android_client_info": {
+          "package_name": "com.example.casadav"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "405479987783-jvm1alh8rpc9pkflqg1ael3cdnp6c8u8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzs2_pfZ5vxzbApQnE96dDC0iOc1G7ab0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "405479987783-jvm1alh8rpc9pkflqg1ael3cdnp6c8u8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "405479987783-ok9hoiqmusi6j7rsco7cs01oup4k9c07.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.casaadv"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
